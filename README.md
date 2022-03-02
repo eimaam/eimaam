@@ -1,3 +1,12 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
+
 ## Hey there!
 
 ### ...join me on a journey with me to wherever 😄 
