@@ -10,7 +10,7 @@
 ## Hey there!
 
 ### ...join me on a journey with me to wherever 😄 
-
+'''diff
 🔭 I’m currently working on TECH DESK. 
 
 💬 Tring to learn JS at the moment...
