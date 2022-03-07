@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on `TECH DESK`. 
 
-💬 Tring to learn JS at the moment...
+💬 Trying my hands on JS at the moment...
 
 ☑️ Ready to collaborate on Frontened works.
 
