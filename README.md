@@ -10,5 +10,7 @@
 
 😇 Ready to help with HTML, CSS and a lil of JavaScript issues.
 
-📧 Reach me via techdesk@gmail.com
-https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+📧 Reach me via techdesk@gmail.com.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
