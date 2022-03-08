@@ -1,6 +1,6 @@
 ## Hey there!
 
-### ...join me on a journey with me to wherever 😄 
+### ...join me on a journey to wherever 😄 
 
 🔭 I’m currently working on `TECH DESK`. 
 
