@@ -1,6 +1,7 @@
-<p align = "left">
-## Hey there!
 
+## <p align = "center"> Hey there! I am [IMAM DAHIR DAN-AZUMI](imamddahir.netlify.app)
+<p>
+  
 ### ...join me on a journey to wherever 😄 
 
 🔭 I’m currently working on `TECH DESK`. 
@@ -13,9 +14,12 @@
 
 📧 Reach me via techdesk@gmail.com.
 
-<p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eimaam)](https://github.com/eimaam/github-readme-stats)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="eimaam" /> </p>
+  [![Instagram](https://img.shields.io/badge/eimaam-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eimaam_d/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eimaam)
+
+
+
 
