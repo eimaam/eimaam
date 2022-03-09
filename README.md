@@ -15,6 +15,7 @@
 
 <p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eimaam)](https://github.com/eimaam/github-readme-stats)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
+<p align = "right"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eimaam)](https://github.com/eimaam/github-readme-stats)
+  <p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="eimaam" /> </p>
 
