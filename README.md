@@ -1,3 +1,4 @@
+<p align = "left">
 ## Hey there!
 
 ### ...join me on a journey to wherever 😄 
@@ -12,5 +13,8 @@
 
 📧 Reach me via techdesk@gmail.com.
 
+<p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eimaam)](https://github.com/eimaam/github-readme-stats)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=allen17mv" alt="allenmanoj17" /> </p>
+
