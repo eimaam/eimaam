@@ -6,11 +6,10 @@
 
 🔭 I’m currently working on `TECH DESK`. 
 
-💬 Trying my hands on JS at the moment...
+💬 Fell in love with ReactJS the day I tried my hands on it. Safe to say we're currently in a relationship!
 
 ☑️ Ready to collaborate on Frontened works.
 
-😇 Ready to help with HTML, CSS and a lil of JavaScript issues.
 
 📧 Reach me via:
 
