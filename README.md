@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on `TECH DESK`. 
 
-💬 Fell in love with ReactJS the day I tried my hands on it. Safe to say we're currently in a relationship!
+💬 In a relationship with ReactJS! 
 
 ☑️ Ready to collaborate on Frontened works.
 
