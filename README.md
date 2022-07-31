@@ -19,12 +19,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imamddahir/)
   [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://imamddahir.netlify.app/)](https://imamddahir.netlify.app)
 
-## 🔥 Streak stats
-<!-- GitHub Readme Streak Stats - https://github.com/eimaam/github-readme-streak-stats -->
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Allen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=eimaam&theme=neon-dark&hide_border=true"/>
-</p>
-
 <br />
 
 ## Languages:
