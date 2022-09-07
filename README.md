@@ -1,5 +1,5 @@
 
-## <p align = "center"> Hey there! I am [IMAM DAHIR DAN-AZUMI](imamddahir.netlify.app)
+## <p align = "center"> Hey there! I am [IMAM DAHIR DAN-AZUMI](imamddahir.vercel.app)
 <p>
   
 ### ...join me on a journey to wherever 😄 
