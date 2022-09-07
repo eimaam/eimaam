@@ -10,6 +10,8 @@
 
 ☑️ Ready to collaborate on Frontened works.
 
+<hr>
+
 <div align="center">
 <h2>Connect with me:</h2>
 <p align="center">
