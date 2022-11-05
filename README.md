@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript, React, Typescript, SASS/SCSS, HTML, CSS, Crypto, Blockchain**
 
-- 📫 How to reach me **imamddahir@gmail.com**
+- 📫 Reach me via **imamddahir@gmail.com** or any of my Socials.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
