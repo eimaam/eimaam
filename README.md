@@ -11,7 +11,7 @@
 
 - 🤝 I'll be glad to help with **JavaScript, React, Typescript, SASS, HTML, CSS, SCSS etc.**
 
-- 👨‍💻 All of my projects are available at [https://www.eimaam.dev](https://www.eimaam.dev)
+- 👨‍💻 All of my projects are available at [https://www.eimaam.dev](https://eimaam.dev)
 
 - 💬 Ask me about **Javascript, React, Typescript, SASS/SCSS, HTML, CSS, Crypto, Blockchain**
 
