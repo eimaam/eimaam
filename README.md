@@ -5,9 +5,9 @@
 
 - 🔭 Building [TECH DESK 💡](https://techdesk.eimaam.dev)
 
-- 🌱 In a relationship with **ReactJS**
+- 🌱 Learning Node.js
 
-- 💡 Love solving problems by **coding my Ideas into solutions!**
+- 💡 Love solving problems by **coding my ideas into solutions!**
 
 - 🤝 I'll be glad to help with **JavaScript, React, Typescript, SASS, HTML, CSS, SCSS etc.**
 
