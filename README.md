@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/eimaam_d" target="blank"><img src="https://img.shields.io/twitter/follow/eimaam_d?logo=twitter&style=for-the-badge" alt="eimaam_d" /></a> </p>
 
-- 🔭 Building [TECH DESK 💡](https://techdesk.eimaam.dev)
+- 🔭 Building TECH DESK 💡
 
 - 🌱 Learning Node.js
 
