@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm IMAM DAHIR DAN-AZUMI</h1>
 <h3 align="center">Frontend Software Engineer | Tech/Crypto Enthusiast | UX Designer | Community Builder</h3>
 
-<p align="left"> <a href="https://twitter.com/eimaam_d" target="blank"><img src="https://img.shields.io/twitter/follow/eimaam_d?logo=twitter&style=for-the-badge" alt="eimaam_d" /></a> </p>
 
 - 🔭 Building TECH DESK 💡
 
@@ -9,21 +8,21 @@
 
 - 💡 Love solving problems by **coding my ideas into solutions!**
 
-- 🤝 I'll be glad to help with **JavaScript, React, Typescript, SASS, HTML, CSS, SCSS etc.**
+- 👨‍💻 All of my projects are available @ [https://www.eimaam.dev](https://eimaam.dev)
 
-- 👨‍💻 All of my projects are available at [https://www.eimaam.dev](https://eimaam.dev)
+- 📫 Reach me via `imamddahir@gmail.com` or any of my Social Accounts below.
 
-- 💬 Ask me about **Javascript, React, Typescript, SASS/SCSS, HTML, CSS, Crypto, Blockchain**
+## Connect with me
 
-- 📫 Reach me via **imamddahir@gmail.com** or any of my Social Accounts below.
+[![Portfolio Badge](https://img.shields.io/badge/-Visit%20My%20Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://josephenoch.vercel.app/)](https://eimaam.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Imam%20Dahir%20DanAzumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eimaam/)](https://www.linkedin.com/in/eimaam/)
+[![Instagram Badge](https://img.shields.io/badge/-@eimaam-E33153?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/eimaam/)](https://instagram.com/eimaam)
+[![Twitter Badge](https://img.shields.io/badge/-@eimaam_d-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/eimaam_d/)](https://twitter.com/eimaam_d)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/eimaam_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eimaam_d" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eimaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eimaam" height="30" width="40" /></a>
-</p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
+
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
