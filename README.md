@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm IMAM DAHIR DAN-AZUMI</h1>
-<h3 align="center">Frontend Software Engineer | Tech/Crypto Enthusiast | UX Designer | Community Builder</h3>
+<h3 align="center">Frontend Software Developer | Tech/Crypto Enthusiast | UX Designer | Community Builder </h3>
 
+<br />
 
 - 🔭 Building TECH DESK 💡
 
