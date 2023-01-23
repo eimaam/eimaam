@@ -2,7 +2,7 @@
 
 <br />
 
-- 🔭 Building TECH DESK 💡
+- 🔭 Building TECH BARS 💡
 
 - 🌱 Learning Node.js
 
