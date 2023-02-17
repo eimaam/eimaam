@@ -6,9 +6,9 @@
 
 - 🌱 Learning `Backend Development`
 
-- 💡 Love solving problems by **coding my ideas into solutions!**
+- 💡 Love solving problems by _coding my ideas into solutions_
 
-- 👨‍💻 Find some of my Live Projects @ [_**eimaam.dev**_](https://eimaam.dev)
+- 👨‍💻 Look me up & some of my Live Projects via [_**eimaam.dev**_](https://eimaam.dev)
 
 - 📫 Reach me via `imamddahir@gmail.com` or any of my Social Accounts below.
 
