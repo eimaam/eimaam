@@ -10,7 +10,7 @@
 
 - 👨‍💻 Look me up & some of my Live Projects via [_**eimaam.dev**_](https://eimaam.dev)
 
-- 📫 Reach me via `imamddahir@gmail.com` or any of my Social Accounts below.
+- 📫 Mail me via `imamddahir@gmail.com`.
 
 ## Connect with me
 
