@@ -4,7 +4,7 @@
 
 - 🔭 Building TECH BARS 💡
 
-- 🌱 Learning `Backend Development`
+- 🌱 Solidifying my `API Development & Security Skill`
 
 - 💡 Love solving problems by _coding my ideas into solutions_
 
