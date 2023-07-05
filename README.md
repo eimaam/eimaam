@@ -6,11 +6,11 @@
 
 - 🌱 Solidifying my `API Development & Security Skill`
 
-- 💡 Love solving problems by _coding my ideas into solutions_
+- 💡 While enjoying code - I am passionate on problem solving using my Skills - building ideas into practical solutions._
 
-- 👨‍💻 Look me up & some of my Live Projects via [_**eimaam.dev**_](https://eimaam.dev)
+- 👨‍💻 Portfolio & Live Projects: [_**eimaam.dev**_](https://eimaam.dev)
 
-- 📫 Mail me via `imamddahir@gmail.com`.
+- 📫 Send a Mail: `imamddahir@gmail.com`.
 
 ## Connect with me
 
