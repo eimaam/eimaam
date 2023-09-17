@@ -4,7 +4,7 @@
 
 - 🔭 Building TECH BARS 💡
 
-- 🌱 Solidifying my `API Development & Security Skill`
+- 🌱 Solidifying my `Cloud Build, API Development & Security Skill`
 
 - 💡 While enjoying code - I am passionate on problem solving using my Skills - building ideas into practical solutions._
 
