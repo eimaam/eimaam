@@ -2,7 +2,7 @@
 
 <br />
 
-- 🌱 Enhancing My Proficiency in Cloud Build, API Development, and Security 
+- 🌱 Currently Learning to build on _Solana_
 
 - 💡 While enjoying code - I am passionate on problem solving using my Skills - building ideas into practical solutions._
 
