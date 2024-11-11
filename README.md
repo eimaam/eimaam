@@ -1,4 +1,4 @@
-<h3 align="center">Software Developer | Tech/Crypto Enthusiast | UX Designer | Community Builder </h3>
+<h3 align="center">Software Engineer | Tech/Crypto Enthusiast | Community Builder </h3>
 
 <br />
 
