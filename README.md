@@ -2,9 +2,9 @@
 
 <br />
 
-- 🌱 Currently Learning to build on _Solana_
+- 🌱 Currently Learning/Building on _Web3_
 
-- 💡 While enjoying code - I am passionate on problem solving using my Skills - building ideas into practical solutions._
+- 💡 While enjoying code - I am passionate about crafting high performant products, transforming innovative concepts into practical solutions. 
 
 - 👨‍💻 Portfolio & Live Projects: [_**eimaam.dev**_](https://eimaam.dev)
 
