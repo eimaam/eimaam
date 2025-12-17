@@ -53,15 +53,3 @@ I build and ship production-grade software - SaaS platforms, bots, APIs the & de
 - Multiple internal tools, bots, and MVPs for startups and businesses
 
 👉 More details on: **https://eimaam.dev**
-
----
-
-## GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eimaam&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eimaam&theme=dark&hide_border=true" />
-</p>
