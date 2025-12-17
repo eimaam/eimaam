@@ -1,32 +1,67 @@
-<h3 align="center">Software Engineer | Tech/Crypto Enthusiast | Community Builder </h3>
+<h2 align="center">Imam Dahir Dan-Azumi</h2>
+<h4 align="center">
+Software Engineer · Product Builder · Backend & Infra Focused
+</h4>
 
-<br />
+<p align="center">
+I build and ship production-grade software - SaaS platforms, bots, APIs the & developer tools with a strong focus on performance, reliability and real-world use cases. 🚀 
+</p>
 
-- 🌱 Currently Learning/Building on _Web3_
+<p align="center">
+<a href="https://eimaam.dev">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/eimaam/">LinkedIn</a> ·
+<a href="https://twitter.com/eimaam_d">Twitter</a> ·
+<a href="mailto:imamddahir@gmail.com">Email</a>
+</p>
 
-- 💡 While enjoying code - I am passionate about crafting high performant products, transforming innovative concepts into practical solutions. 
+---
 
-- 👨‍💻 Portfolio & Live Projects: [_**eimaam.dev**_](https://eimaam.dev)
+## What I Do
 
-- 📫 Send a Mail: `imamddahir@gmail.com`.
+- Design and build **end-to-end products** (from idea → production)
+- Backend-heavy systems: **APIs, payments, bots, auth, infra**
+- Ship fast without sacrificing **security, scalability, or maintainability**
+- Work comfortably across **startup MVPs and revenue-generating systems**
 
-## Connect With Me:
+---
 
-[![Portfolio Badge](https://img.shields.io/badge/-Visit%20My%20Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=white&link=https://josephenoch.vercel.app/)](https://eimaam.dev/)
-[![Linkedin Badge](https://img.shields.io/badge/-Imam%20Dahir%20DanAzumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eimaam/)](https://www.linkedin.com/in/eimaam/)
-[![Instagram Badge](https://img.shields.io/badge/-@eimaam-E33153?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/eimaam/)](https://instagram.com/eimaam)
-[![Twitter Badge](https://img.shields.io/badge/-@eimaam_d-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/eimaam_d/)](https://twitter.com/eimaam_d)
+## Some of the Tech I Actually Use
 
-<br />
+**Core**
+- TypeScript, Node.js, Express
+- React (Vite), Tailwind CSS, Ant Design
+- MongoDB, PostgreSQL, Redis
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Infra & Tooling**
+- Docker, Nginx
+- Firebase, GCP, AWS
+- GitHub Actions, CI/CD
+- Cloudflare, rate limiting, auth flows
 
-  
-  ## Stats
+**Product & Automation**
+- Chrome Extensions
+- WhatsApp & Telegram Bots
+- Payment integrations (Monnify, virtual accounts, webhooks)
 
+---
 
+## Selected Work
 
+- **Secureng** — Tax & payment management SaaS (live, processing real transactions)
+- **Aboutly** — Design-first Portfolio Builder | Public profile & link platform
+- **NoorTab** — Chrome extension
+- Multiple internal tools, bots, and MVPs for startups and businesses
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=eimaam&theme=dark&hide_border=false)<br/>
+👉 More details on: **https://eimaam.dev**
 
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eimaam&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eimaam&theme=dark&hide_border=true" />
+</p>
