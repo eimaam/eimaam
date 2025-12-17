@@ -47,9 +47,8 @@ I build and ship production-grade software - SaaS platforms, bots, APIs the & de
 
 ## Selected Work
 
-- **Secureng** — Tax & payment management SaaS (live, processing real transactions)
 - **Aboutly** — Design-first Portfolio Builder | Public profile & link platform
 - **NoorTab** — Chrome extension
-- Multiple internal tools, bots, and MVPs for startups and businesses
+- Multiple internal tools, bots and MVPs for startups and businesses
 
 👉 More details on: **https://eimaam.dev**
