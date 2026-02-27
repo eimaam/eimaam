@@ -4,7 +4,11 @@ Software Engineer · Product Builder · Backend & Infra Focused
 </h4>
 
 <p align="center">
-I build and ship production-grade software - SaaS platforms, bots, APIs the & developer tools with a strong focus on performance, reliability and real-world use cases. 🚀 
+Building production SaaS, automation systems and infrastructure 
+</p>
+
+<p align="center">
+Focused on building & shipping production SaaS, bots, automation systems and infrastructure handling real users, transactions and operational workflows, used by real businesses and revenue-generating platforms.
 </p>
 
 <p align="center">
@@ -20,8 +24,17 @@ I build and ship production-grade software - SaaS platforms, bots, APIs the & de
 
 - Design and build **end-to-end products** (from idea → production)
 - Backend-heavy systems: **APIs, payments, bots, auth, infra**
-- Ship fast without sacrificing **security, scalability, or maintainability**
+- Build systems designed for production: fault-tolerant APIs, secure auth flows and scalable backend infrastructure.
 - Work comfortably across **startup MVPs and revenue-generating systems**
+
+---
+
+## Current Focus
+
+- Building scalable SaaS platforms and automation systems
+- Backend architecture, APIs, and distributed systems
+- Bots and automation (WhatsApp, Telegram, Chrome Extensions)
+- Infrastructure, reliability, and production deployments
 
 ---
 
@@ -47,8 +60,20 @@ I build and ship production-grade software - SaaS platforms, bots, APIs the & de
 
 ## Selected Work
 
-- **Aboutly** — Design-first Portfolio Builder | Public profile & link platform
-- **NoorTab** — Chrome extension
-- Multiple internal tools, bots and MVPs for startups and businesses
+**PaySats**  
+Bitcoin Cash (BCH) payment platform enabling users to pay bills, send and receive payments and interact with real-world financial services using cryptocurrency.  
+Live production system handling real transactions and user interactions. 
+Built secure transaction flows, wallet integrations and backend infrastructure for handling payments reliably.
 
-👉 More details on: **https://eimaam.dev**
+**Aboutly**  
+Design-first professional profile platform with analytics, public profiles, and dashboard system.  
+Built fullstack architecture powering user profiles, dashboards, and analytics tracking.
+
+**Automation & Bots**  
+Developed WhatsApp and Telegram bots for automation, monitoring, notifications, and operational workflows across production systems.
+
+## Philosophy
+
+I focus on building software that is reliable, maintainable, and useful in real-world environments — not just demos.
+
+👉 More details: https://eimaam.dev
