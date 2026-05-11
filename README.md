@@ -41,12 +41,12 @@ Focused on building & shipping production SaaS, bots, automation systems and inf
 ## Some of the Tech I Actually Use
 
 **Core**
-- TypeScript, Node.js, Express
+- TypeScript, Node.js, Nestjs, Express
 - React (Vite), Tailwind CSS, Ant Design
 - MongoDB, PostgreSQL, Redis
 
 **Infra & Tooling**
-- Docker, Nginx
+- Docker, Nginx, Coolify
 - Firebase, GCP, AWS
 - GitHub Actions, CI/CD
 - Cloudflare, rate limiting, auth flows
@@ -54,7 +54,7 @@ Focused on building & shipping production SaaS, bots, automation systems and inf
 **Product & Automation**
 - Chrome Extensions
 - WhatsApp & Telegram Bots
-- Payment integrations (Monnify, virtual accounts, webhooks)
+- Payment integrations (Crypto, Virtual Accounts, Stripe, Webhooks etc)
 
 ---
 
